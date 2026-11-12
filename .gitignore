@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Secretos y llaves
+.env
+.env.*
+*.key
+
+# Dependencias y compilación
+node_modules/
+target/
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
